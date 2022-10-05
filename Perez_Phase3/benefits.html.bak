@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Behind the Controller</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="color.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+	<body>
+	<div id="wrapper">
+	
+	<h1 class="header">Behind the Controller</h1>
+	<nav class="classborder floatleft">
+		<ul>
+		<li><a href = "index.htm">Home</a></li>
+		<li><a href = "about.html">About</a></li>
+		<li><a href = "benefits.html">Benefits</a></li>
+		<li><a href = "recommendations.html">Recommendations</a></li>
+		<li><a href = "careers.html">Careers</a></li>
+		<li><a href = "moreinfo.html">More Info</a></li>
+		</ul>
+	</nav>
+	
+	<main>
+		<img class="floatright shiftimage" id="trooperimg" src="images/troopers.jpg" width="17%" alt="Group of storm troopers">
+		<br>
+		<h2 class="centertext"> Benefits </h2>
+		<br>
+		<p class="shift"> One of the first benefits I want to talk about is the social aspect. A lot of times it can be hard to plan things to do with family and friends. But video games give you easy access to those you want to play with and can connect you no matter the distance. 
+		I have heard stories of boys being able to play with their brothers who are in the army even though they are extremely far away. I find this social benefit to be incredible.
+		For me this was extremely prevalent two years ago during quarantine. Most of my family was getting anxious and restless about being inside the house but not me. I was happy to just wake up and have the option to sit in a voice call with all my friends and just play games. It was simple and was relieving from the stressful world around us.
+		We did this for an entire summer and honestly, we all grew really close, and I know they will be my friends for life. This is just one of the reasons I think video games are a great creation.</p>
+		<br><br><br>
+		<img class="hero floatright" src="images/openworld.jpg" alt="Video game character looking at mountains in the distance">
+		<br>
+		<p class="shift"> The second benefit is that they allow you to get away from the world around you. You should not always run from your problems but sometimes you need a break. Life can be extremely stressful and overwhelming. For me, if I am stressed about something or just want to wind down, I will boot up a game to just play and relax. 
+		There are actually some games that help me for this exact scenario. In my opinion an open world game is perfect for this. If you look at the picture you can see the beautiful world of <em>The Legend of Zelda: Breath of the Wild</em>. This world is a nonlinear map where you can journey however you want. The game does not force you to go in one direction.
+		Instead, it encourages exploration and finding your path around the world which is fun and relaxing. This kind of game can make you feel free and calm because what happens is up to you. You are in control. You choose the path and get to follow it and if does not work out, you can always go another way.</p>
+		<br><br>
+		<img class="floatright hero" src="images/gameroom.jpg" alt="Room full of arcade games.">
+		<br>
+		<p class="shift">The third benefit is that you get a great hobby. There are so many different games it will be really hard for you to run out of things to do. Even if you do not have a lot of time, you can just hop on your phone to play a quick game or if you have a lot of time just sit down and pick up the controller. The versatility is amazing to me. Examples of diverse types of games would be <em>Call of Duty</em> and <em>The Sims</em>. The first game is about being in the military and playing different game modes each with different win conditions. The second is a game about life. You are in control of different characters, and you build their story. The difference in the people who play these games can vary tremendously. Most people attribute teenagers with <em>Call of Duty</em> whereas <em>The Sims</em> is seen more as a game for all people. Now this stereotype is not exactly right. Yes, many teens play <em>Call of Duty</em> but that does not mean they are the only ones who do. I am sure there are people of all ages who play this game. I have seen six-year-olds play the game and even become an internet sensation because of it. Even my parents used to play games however their view of video games has changed. They grew up with Galaga and Centipede which were the games of their time that they played at the arcade. These were some of the first video games which shows you how long they have been around and how they have evolved.</p>
+	</main>
+	<footer>
+		<p><a href="copyright.pdf"> Works Citation for Images </a></p>
+	</footer>
+	</div>
+	</body>
+</html>
